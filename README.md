@@ -1,9 +1,14 @@
-# api documentation for  [shell-task (v1.0.0)](https://github.com/yyx990803/shell-task)  [![npm package](https://img.shields.io/npm/v/npmdoc-shell-task.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-shell-task) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-shell-task.svg)](https://travis-ci.org/npmdoc/node-npmdoc-shell-task)
+# npmdoc-shell-task
+
+#### api documentation for  [shell-task (v1.0.0)](https://github.com/yyx990803/shell-task)  [![npm package](https://img.shields.io/npm/v/npmdoc-shell-task.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-shell-task) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-shell-task.svg)](https://travis-ci.org/npmdoc/node-npmdoc-shell-task)
+
 #### Proof-of-concept then-able shell commands in node.
 
-[![NPM](https://nodei.co/npm/shell-task.png?downloads=true)](https://www.npmjs.com/package/shell-task)
+[![NPM](https://nodei.co/npm/shell-task.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/shell-task)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-shell-task/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shell-task_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-shell-task/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-shell-task/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-shell-task/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-shell-task/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-shell-task/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-shell-task/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Evan You",
-        "email": "yyx990803@gmail.com"
+        "name": "Evan You"
     },
     "bugs": {
         "url": "https://github.com/yyx990803/shell-task/issues"
@@ -41,13 +45,11 @@
     "main": "task.js",
     "maintainers": [
         {
-            "name": "yyx990803",
-            "email": "yyx990803@gmail.com"
+            "name": "yyx990803"
         }
     ],
     "name": "shell-task",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yyx990803/shell-task.git"
@@ -56,16 +58,6 @@
     "version": "1.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module shell-task](#apidoc.module.shell-task)
-
-
-
-# <a name="apidoc.module.shell-task"></a>[module shell-task](#apidoc.module.shell-task)
 
 
 
