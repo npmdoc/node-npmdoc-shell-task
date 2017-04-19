@@ -54,12 +54,40 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.shell-task">module shell-task</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.shell-task.shell-task">
+            function <span class="apidocSignatureSpan"></span>shell-task
+            <span class="apidocSignatureSpan">(cmd, opts)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.shell-task" id="apidoc.module.shell-task">module shell-task</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.shell-task.shell-task" id="apidoc.element.shell-task.shell-task">
+        function <span class="apidocSignatureSpan"></span>shell-task
+        <span class="apidocSignatureSpan">(cmd, opts)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Task(cmd, opts) {
+  this.opts = opts || {
+    stdio: 'inherit'
+  }
+  this.queue = []
+  this.then(cmd)
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
